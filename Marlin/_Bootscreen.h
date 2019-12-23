@@ -31,7 +31,7 @@
  * http://marlinfw.org/tools/u8glib/converter.html
  */
 
-#define CUSTOM_BOOTSCREEN_TIMEOUT 1000
+#define CUSTOM_BOOTSCREEN_TIMEOUT 500
 #define CUSTOM_BOOTSCREEN_BMPWIDTH 81
 #define CUSTOM_BOOTSCREEN_INVERTED
 
